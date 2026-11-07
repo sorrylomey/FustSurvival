@@ -3,7 +3,7 @@
 --==================================================
 
 local Rayfield = loadstring(game:HttpGet(
-    "https://github.com/sorrylomey/FustSurvival/raw/refs/heads/main/ZZZLib.luau"
+    "https://github.com/UnknownDeveloper-sqd/UnknownSquad-RayField-Lib/raw/refs/heads/main/Rayfield/CustomRayfield.luau"
 ))()
 
 local Players = game:GetService("Players")
